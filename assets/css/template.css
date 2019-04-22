@@ -1,0 +1,7 @@
+body{
+  width: 100%;
+  min-height: 600px;
+  background: url("baju.jpg") no-repeat center;
+  background-size: cover;
+  float: left;
+}
